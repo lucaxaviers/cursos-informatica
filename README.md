@@ -1,12 +1,20 @@
-# 📚Cursos de Informática
+# cursos-informatica
 
-Este projeto é uma página HTML que exibe uma lista de cursos de informática disponíveis. A página contém informações sobre cada curso, com uma breve descrição e a opção de inscrição para os interessados.
+🎓 Projeto Acadêmico: Interface front-end para exibição e listagem de cursos de informática (estruturação web).
 
-## ⚙️Funcionalidades:
-- Exibição de cursos de informática com imagens e descrições.
-- Botões de inscrição para cada curso.
-- Layout responsivo para dispositivos móveis.
+---
 
-## 🛠️ Tecnologias Usadas:
-- HTML
-- CSS
+## 🎯 Sobre o Projeto
+Este repositório contém artefatos desenvolvidos no contexto de engenharia de software / engenharia de computação. 
+O objetivo principal deste projeto é a consolidação de conhecimentos práticos em desenvolvimento, estrutura de dados, lógica de programação e arquitetura de sistemas.
+
+## 🛠️ Tecnologias e Conceitos Aplicados
+Este projeto explora de maneira aprofundada:
+- Construção de código limpo e manutenível.
+- Separação de responsabilidades (quando aplicável).
+- Estruturação semântica e boas práticas da linguagem utilizada.
+
+---
+
+> **Desenvolvido por Lucas Xavier.**  
+> *Foco em excelência técnica, rigor acadêmico e construção de arquiteturas modernas.*
